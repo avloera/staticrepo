@@ -2,7 +2,7 @@
 draft = false
 image = "img/portfolio/cats/cat5.jpg"
 date = "2016-11-05T19:56:17+05:30"
-title = "Dog 5"
+title = "Cat 5"
 showonlyimage = false
 weight = 5
 +++
